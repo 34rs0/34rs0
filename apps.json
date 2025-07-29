@@ -1,29 +1,16 @@
 [
   {
-    "name": "Hack PUBG Mobile",
-    "description": "هاك ببجي آمن وجاهز للاستخدام",
-    "imageUrl": "https://example.com/images/pubg_hack.png",
-    "downloadUrl": "https://example.com/downloads/pubg_hack.apk",
-    "category": "games",
-    "status": "آمن",
-    "updateAvailable": true
+    "name": "My App",
+    "description": "تطبيق رائع لعرض المنتجات",
+    "imageUrl": "https://example.com/images/myapp.png",
+    "downloadUrl": "https://example.com/downloads/myapp.apk",
+    "status": "آمن"
   },
   {
-    "name": "Photoshop Mobile",
-    "description": "برنامج تعديل الصور للأندرويد",
-    "imageUrl": "https://example.com/images/photoshop_mobile.png",
-    "downloadUrl": "https://example.com/downloads/photoshop_mobile.apk",
-    "category": "apps",
-    "status": "تحت التحديث",
-    "updateAvailable": false
-  },
-  {
-    "name": "معلومات عن GTA SA",
-    "description": "كل شيء عن لعبة GTA San Andreas",
-    "imageUrl": "https://example.com/images/gta_info.png",
-    "downloadUrl": "",
-    "category": "info",
-    "status": "آمن",
-    "updateAvailable": false
+    "name": "Game X",
+    "description": "لعبة مسلية للجميع",
+    "imageUrl": "https://example.com/images/gamex.png",
+    "downloadUrl": "https://example.com/downloads/gamex.apk",
+    "status": "جديد"
   }
 ]
