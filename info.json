@@ -1,0 +1,20 @@
+[
+  {
+    "name": "معلومة 1",
+    "description": "وصف المعلومة 1",
+    "imageUrl": "https://example.com/info1.png",
+    "downloadUrl": "",
+    "status": "آمن",
+    "extraInfo": "مزيد من التفاصيل",
+    "updateAvailable": false
+  },
+  {
+    "name": "معلومة 2",
+    "description": "وصف المعلومة 2",
+    "imageUrl": "https://example.com/info2.png",
+    "downloadUrl": "",
+    "status": "تحديث",
+    "extraInfo": "تفاصيل التحديث",
+    "updateAvailable": true
+  }
+]
