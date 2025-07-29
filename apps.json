@@ -1,16 +1,16 @@
 [
   {
     "name": "My Cool App",
-    "description": "This is a cool app.",
-    "imageUrl": "https://example.com/images/app1.png",
-    "downloadUrl": "https://example.com/download/app1.apk",
-    "status": "Available"
+    "description": "This is a cool app description.",
+    "imageUrl": "https://via.placeholder.com/150",
+    "downloadUrl": "https://example.com/mycoolapp.apk",
+    "status": "Active"
   },
   {
     "name": "Awesome Game",
-    "description": "Best game ever.",
-    "imageUrl": "https://example.com/images/game1.png",
-    "downloadUrl": "https://example.com/download/game1.apk",
-    "status": "Coming Soon"
+    "description": "Fun and addictive game.",
+    "imageUrl": "https://via.placeholder.com/150",
+    "downloadUrl": "https://example.com/awesomegame.apk",
+    "status": "Beta"
   }
 ]
