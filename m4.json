@@ -1,0 +1,30 @@
+{
+  "games": [
+    {
+      "name": "GTA SA MOD",
+      "description": "مود سيارات حديثة + فلوس غير محدودة",
+      "image": "https://example.com/images/gta.jpg",
+      "downloadUrl": "https://example.com/apks/gta-mod.apk"
+    },
+    {
+      "name": "Subway Hack",
+      "description": "فلوس غير محدودة وشخصيات مفتوحة",
+      "image": "https://example.com/images/subway.jpg",
+      "downloadUrl": "https://example.com/apks/subway-hack.apk"
+    }
+  ],
+  "apps": [
+    {
+      "name": "YouTube++",
+      "description": "تطبيق يوتيوب بدون إعلانات وتحميل مباشر",
+      "image": "https://example.com/images/yt.jpg",
+      "downloadUrl": "https://example.com/apks/youtube-plus.apk"
+    }
+  ],
+  "info": [
+    {
+      "title": "M4 Downloadar",
+      "content": "تطبيق لتحميل الألعاب والبرامج المهكرة بسهولة"
+    }
+  ]
+}
