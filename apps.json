@@ -1,16 +1,16 @@
 [
   {
-    "name": "My App",
-    "description": "تطبيق رائع لعرض المنتجات",
-    "imageUrl": "https://example.com/images/myapp.png",
-    "downloadUrl": "https://example.com/downloads/myapp.apk",
-    "status": "آمن"
+    "name": "My Cool App",
+    "description": "This is a cool app.",
+    "imageUrl": "https://example.com/images/app1.png",
+    "downloadUrl": "https://example.com/download/app1.apk",
+    "status": "Available"
   },
   {
-    "name": "Game X",
-    "description": "لعبة مسلية للجميع",
-    "imageUrl": "https://example.com/images/gamex.png",
-    "downloadUrl": "https://example.com/downloads/gamex.apk",
-    "status": "جديد"
+    "name": "Awesome Game",
+    "description": "Best game ever.",
+    "imageUrl": "https://example.com/images/game1.png",
+    "downloadUrl": "https://example.com/download/game1.apk",
+    "status": "Coming Soon"
   }
 ]
