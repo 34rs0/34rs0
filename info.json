@@ -13,9 +13,9 @@
       "name_ar": "شروط الاستخدام",
       "description_en": "By using this app, you agree to the terms.",
       "description_ar": "باستخدام هذا التطبيق، فإنك توافق على الشروط.",
-      "imageUrl": "https://yourdomain.com/images/terms.png",
+      "imageUrl": "https://raw.githubusercontent.com/34rs0/34rs0/main/M4.png",
       "status": "updated"
     }
   ],
-  "rightsImage": "https://yourdomain.com/images/m4_rights.png"
+  "rightsImage": "https://raw.githubusercontent.com/34rs0/34rs0/main/M4.png"
 }
