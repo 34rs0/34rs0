@@ -1,27 +1,21 @@
 [
   {
     "name": "Lava Hax Root",
-    "name_en": "Lava Hax Root",
-    "description": "هاك ببجي للأجهزة بصلاحيات الروت فقط",
-    "description_en": "Pubg Hack Root Only",
+    "description": "Pubg Hack Root Only",
     "imageUrl": "https://raw.githubusercontent.com/34rs0/34rs0/main/IMG_20250730_002101_685.jpg",
     "downloadUrl": "https://example.com/downloads/chat_app.apk",
     "status": "خطر"
   },
   {
     "name": "RE4 HAX",
-    "name_en": "RE4 HAX",
-    "description": "هاك ببجي بدون روت فقط",
-    "description_en": "Pubg Hack No Root Only",
+    "description": "Pubg Hack No Root Only",
     "imageUrl": "https://raw.githubusercontent.com/34rs0/34rs0/main/IMG_20250730_142021_848.jpg",
     "downloadUrl": "https://example.com/downloads/adventure_game.apk",
     "status": "تحت التحديث"
   },
   {
     "name": "SpaceX Engine Root",
-    "name_en": "SpaceX Engine Root",
-    "description": "هاك ببجي للأجهزة الروت فقط",
-    "description_en": "Pubg Hack Root Only",
+    "description": "Pubg Hack Root Only",
     "imageUrl": "https://raw.githubusercontent.com/34rs0/34rs0/main/20250616_195343.png",
     "downloadUrl": "https://example.com/downloads/book_reader.apk",
     "status": "غير متوفر"
