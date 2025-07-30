@@ -1,20 +1,21 @@
-[
-  {
-    "name": "معلومة 1",
-    "description": "وصف المعلومة 1",
-    "imageUrl": "https://example.com/info1.png",
-    "downloadUrl": "",
-    "status": "آمن",
-    "extraInfo": "مزيد من التفاصيل",
-    "updateAvailable": false
-  },
-  {
-    "name": "معلومة 2",
-    "description": "وصف المعلومة 2",
-    "imageUrl": "https://example.com/info2.png",
-    "downloadUrl": "",
-    "status": "تحديث",
-    "extraInfo": "تفاصيل التحديث",
-    "updateAvailable": true
-  }
-]
+{
+  "info": [
+    {
+      "name_en": "Who We Are",
+      "name_ar": "من نحن",
+      "description_en": "This is the official M4 Store.",
+      "description_ar": "هذا هو المتجر الرسمي لـ M4.",
+      "imageUrl": "https://yourdomain.com/images/about.png",
+      "status": "safe"
+    },
+    {
+      "name_en": "Terms of Use",
+      "name_ar": "شروط الاستخدام",
+      "description_en": "By using this app, you agree to the terms.",
+      "description_ar": "باستخدام هذا التطبيق، فإنك توافق على الشروط.",
+      "imageUrl": "https://yourdomain.com/images/terms.png",
+      "status": "updated"
+    }
+  ],
+  "rightsImage": "https://yourdomain.com/images/m4_rights.png"
+}
